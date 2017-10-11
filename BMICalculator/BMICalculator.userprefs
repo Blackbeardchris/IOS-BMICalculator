@@ -1,17 +1,34 @@
-﻿<Properties StartupConfiguration="{0E456890-1CF3-4CCE-8550-F9E58BB3AB67}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BMICalculator/ViewController.cs">
+﻿<Properties StartupConfiguration="{3F16DBD9-5A54-41AA-99F6-C4202E90BE18}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="BMICalculator/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="BMICalculator/Main.storyboard" />
-      <File FileName="BMICalculator/ViewController.cs" Line="43" Column="13" />
+      <File FileName="BMICalculator/ViewController.cs" Line="44" Column="10" />
       <File FileName="BMICalculator/Main.cs" Line="12" Column="1" />
+      <File FileName="BMICalculator.Andriod/MainActivity.cs" Line="22" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BMICalculator" expanded="True">
+            <Node name="BMICalculator" expanded="True" />
+            <Node name="BMICalculator.Andriod" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="Main.axml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BMICalculator.Andriod AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.SelectDevice" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.BMICalculator PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A4331A47-E729-460B-9D27-A19A982C5B2B">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />

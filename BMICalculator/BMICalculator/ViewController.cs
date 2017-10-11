@@ -40,7 +40,7 @@ namespace BMICalculator
         {
             base.TouchesBegan(touches, evt);
 
-
+            this.View.EndEditing(true);
         }
     }
 }

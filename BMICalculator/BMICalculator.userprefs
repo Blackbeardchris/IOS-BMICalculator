@@ -4,18 +4,15 @@
       <File FileName="BMICalculator/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="BMICalculator/ViewController.cs" Line="44" Column="10" />
       <File FileName="BMICalculator/Main.cs" Line="12" Column="1" />
-      <File FileName="BMICalculator.Andriod/MainActivity.cs" Line="22" Column="1" />
+      <File FileName="BMICalculator.Andriod/MainActivity.cs" Line="37" Column="50" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BMICalculator" expanded="True">
-            <Node name="BMICalculator" expanded="True" />
-            <Node name="BMICalculator.Andriod" expanded="True">
+            <Node name="BMICalculator.Andriod" expanded="True" selected="True">
               <Node name="Resources" expanded="True">
-                <Node name="layout" expanded="True">
-                  <Node name="Main.axml" selected="True" />
-                </Node>
+                <Node name="layout" expanded="True" />
               </Node>
             </Node>
           </Node>

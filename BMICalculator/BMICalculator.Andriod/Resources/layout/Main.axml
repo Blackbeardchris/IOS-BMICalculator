@@ -12,7 +12,8 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/HeightEditText" />
+        android:id="@+id/HeightEditText"
+        android:inputType="numberDecimal" />
     <TextView
         android:text="Weight"
         android:textAppearance="?android:attr/textAppearanceSmall"
@@ -22,7 +23,8 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/WeightEditText" />
+        android:id="@+id/WeightEditText"
+        android:inputType="numberDecimal" />
     <Button
         android:text="Calculate BMI"
         android:layout_width="match_parent"

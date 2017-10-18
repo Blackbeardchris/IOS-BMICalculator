@@ -1,9 +1,9 @@
-/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.exe
-/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.pdb
-/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.csproj.CoreCompileInputs.cache
-/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.exe
-/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.pdb
 /Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
 /Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
 /Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
 /Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
+/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.exe
+/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.pdb
+/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.exe
+/Users/christopherl10/Desktop/repos/IOS-BMICalculator/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.pdb

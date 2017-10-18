@@ -19,10 +19,10 @@ namespace BMICalculator.Andriod
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
-            calculateButton = FindviewById<Button>(BMICalculator.Andriod.Resource.Id.CalculateButton);
+            calculateButton = FindViewById<Button>(BMICalculator.Andriod.Resource.Id.CalculateButton);
             resultTextView = FindViewById<TextView>(BMICalculator.Andriod.Resource.Id.resultTextView);
-            HeightEditText = FindViewById<EditText>(BMICalculator.Andriod.Resources.Id.HeightEditText);
-            WeightEditText = FindViewById<EditText>(BMICalculator.Andriod.Resources.Id.WeightEditText);
+            HeightEditText = FindViewById<EditText>(BMICalculator.Andriod.Resource.Id.HeightEditText);
+            WeightEditText = FindViewById<EditText>(BMICalculator.Andriod.Resource.Id.WeightEditText);
 
             calculateButton.Click += CalculateButton_Click;
         }

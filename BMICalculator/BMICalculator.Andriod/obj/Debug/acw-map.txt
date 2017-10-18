@@ -1,0 +1,4 @@
+BMICalculator.Andriod.MainActivity, BMICalculator.Andriod;md5399eda5d2a0e8830c29ab2cd778b1ff4.MainActivity
+BMICalculator.Andriod.MainActivity, BMICalculator.Andriod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5399eda5d2a0e8830c29ab2cd778b1ff4.MainActivity
+BMICalculator.Andriod.MainActivity;md5399eda5d2a0e8830c29ab2cd778b1ff4.MainActivity
+bmicalculator.andriod.MainActivity;md5399eda5d2a0e8830c29ab2cd778b1ff4.MainActivity
